@@ -162,3 +162,7 @@ After that step has completed successfully, you should immediately reboot the sy
 	<p>We thank all the individuals, organizations and companies who generously provide the server space and bandwidth to mirror our releases - your help is very much appreciated!</p>
         <p>If you are interested in mirroring our releases, Nightly builds or HaikuDepot packages, please don't hesitate to drop us a line on the <a href="https://discuss.haiku-os.org">forums</a>, or through our <a href="https://www.freelists.org/list/haiku">mailing list.</a></p>
 </p>
+
+### Nightly Images
+
+<p>For those that want to live on the bleeding edge of development, you can download them from our <a href="https://download.haiku-os.org/">list of nightly images</a>.
